@@ -14,5 +14,3 @@ A simple single-page product catalog website built with pure HTML.
 1. Clone or download this repository
 2. Open `index.html` in any web browser
 
-## Screenshot
-*(optional — add a screenshot of your page here)*
